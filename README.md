@@ -1,16 +1,19 @@
-# relay_firebase
+# 🚀 Realtime LED Operator
 
-A new Flutter project.
+This Flutter mobile application 📱 enables users to control LEDs 💡 remotely via Firebase Realtime Database.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- Turn LEDs on or off remotely.
+- Real-time synchronization with Firebase database.
+- User authentication for secure access.
 
-A few resources to get you started if this is your first Flutter project:
+## 🎮 Usage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Launch the app on your mobile device.
+2. Log in with your Firebase account credentials.
+3. Toggle the LED controls to turn the LEDs on or off.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🤝 Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
