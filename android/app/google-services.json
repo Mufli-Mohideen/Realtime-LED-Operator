@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1075820227580",
+    "project_id": "project-relay-new",
+    "storage_bucket": "project-relay-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075820227580:android:80cebdf57acbb2b178a079",
+        "android_client_info": {
+          "package_name": "com.example.relay_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-wyTmIACVNLOzLZlyQmGd2YrK3zqoR3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
